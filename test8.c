@@ -1,4 +1,5 @@
 //
+//  modiy this file to check  git add -u 
 //  test8.c
 //  c_project
 //
